@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calculadora_login</string>
+    <string name="bienvenida">Hola %1$s</string>
+</resources>
